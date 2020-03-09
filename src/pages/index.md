@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: HUMAN IN PROGRESS
-image: /img/Untitled design.png
+image: /img/gaelle-marcel-9DZY0mO98xU-unsplash.jpg
 heading: Human In Progress
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
