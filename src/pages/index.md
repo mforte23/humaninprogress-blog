@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/products-grid2.jpg
+title: HUMAN IN PROGRESS
+image: /img/Untitled design.png
 heading: Human In Progress
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
